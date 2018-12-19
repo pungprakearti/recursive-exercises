@@ -1,4 +1,4 @@
-/* Write a function that finds the product of an array of numbers */
+/* function that finds the product of an array of numbers */
 
 function product(arr) {
   //

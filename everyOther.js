@@ -1,4 +1,4 @@
-/* Write a function that prints every other character of a string */
+/* function that prints every other character of a string */
 
 function everyOther(str, out = '', i = 0) {
   //
